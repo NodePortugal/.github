@@ -1,2 +1,4 @@
-# .github
-NodePortugal’s Profile README
+## NodePortugal
+### connecting developers.
+
+a small start-up webhosting, VPS and Discord Bot Hosting company.
